@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:my-secret-pw@tcp(127.0.0.1:57008)/bookstore?parseTime=true",
+    "port": 8080
+}
